@@ -76,7 +76,7 @@ def app():
     # Function to get data from a CSV file 
     @st.cache_data
     def get_data():
-        df = pd.read_csv('scaled_data.csv', index_col=0)
+        df = pd.read_csv('Scaled_data.csv', index_col=0)
 
         return df
     
