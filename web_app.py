@@ -64,7 +64,7 @@ def get_background(file_name):
 # Function to get data from a CSV file 
 @st.cache_data
 def get_data():
-    df = pd.read_csv('scaled_data.csv', index_col=0)
+    df = pd.read_csv('C:/Users/user/Desktop/Python/Main_Projects/Car_price_prediction/scaled_data.csv', index_col=0)
     return df
 
 
@@ -77,7 +77,7 @@ def app():
     web_customes()                              # Calling web-customized Function
     tool_bar()                                  # Calling tool bar Function
     get_background("images/bg_mn.png")          # Set background image
-    get_data()
+    df = get_data()
 
     # Create an option menu for navigation
     selected = option_menu(
