@@ -1,4 +1,4 @@
-![image](https://github.com/Shuhaib73/Price-Prediction-ML-Project/assets/114503177/4d0a5871-d885-4027-afbd-1c82512744a3)<p align="center" style="font-size: larger; color: #3366cc; font-weight: bold;">
+<p align="center" style="font-size: larger; color: #3366cc; font-weight: bold;">
   <strong>Car Price Prediction - Machine Learning Regression Project</strong>
 </p>
 
