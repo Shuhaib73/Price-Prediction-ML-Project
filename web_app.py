@@ -62,7 +62,7 @@ def get_background(file_name):
     )
 
 # Function to get data from a CSV file 
-st.cache_date
+@st.cache_date
 def get_data():
     df = pd.read_csv('scaled_data.csv', index_col=0)
     return df
