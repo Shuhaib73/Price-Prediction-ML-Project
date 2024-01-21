@@ -33,7 +33,7 @@ You can access the web application[Car Price Predictor] by following this link: 
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
+              <strong>​✒️<Click here to see :</strong> Top 10 Manufacturer 
        </summary>
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' style='width: 50%;' />
