@@ -73,6 +73,15 @@ def app():
     tool_bar()                                  # Calling tool bar Function
     get_background("images/bg_mn.png")          # Set background image
 
+    # Function to get data from a CSV file 
+    @st.cache_data
+    def get_data():
+        df = pd.read_csv('scaled_data.csv', index_col=0)
+
+        return df
+    
+    df = get_data()
+
     # Create an option menu for navigation
     selected = option_menu(
         menu_title=None,
@@ -118,16 +127,6 @@ def app():
             st.markdown('<div class="button-container">', unsafe_allow_html=True)
             st.markdown('<a href="https://www.topgear.com/car-news/top-gear-magazine-0" target="_blank">Car Magazine</a>', unsafe_allow_html=True)
             st.markdown('</div>', unsafe_allow_html=True)
-
-
-    # Function to get data from a CSV file 
-    @st.cache_data
-    def get_data():
-        df = pd.read_csv('scaled_data.csv', index_col=0)
-
-        return df
-    
-    df = get_data()
 
 
     if selected == 'Predictor':
