@@ -3,7 +3,7 @@
 <!-- <p align='center'>
   <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_ims.jpg' />
 </p> -->
-You can access the web application[Audio classification system] by following this link: https://audioclassification.streamlit.app/
+You can access the web application[Car Price Predictor] by following this link: https://audioclassification.streamlit.app/
 
 ## **Introduction**
   ```In the dynamic landscape of the automotive industry, setting accurate and competitive prices for cars is a critical factor for success. Cars undergo a fascinating economic transformation as they transition from new vehicles with manufacturer-set prices to used ones influenced by the intricate dynamics of supply, demand, and individual histories. This transformation, coupled with the unique features that distinguish each car, makes traditional valuation methods less effective. Leveraging the power of machine learning and data science to untangle the complex factors influencing car prices.```
