@@ -2,9 +2,9 @@
   <strong>Car Price Prediction - Machine Learning Regression Project</strong>
 </p>
 
-<!-- <p align='center'>
-  <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_ims.jpg' />
-</p> -->
+<p align='center'>
+  <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/git_logo.png' width='600' height='240' />
+</p> 
 You can access the web application[Car Price Predictor] by following this link: https://audioclassification.streamlit.app/
 
 ## **Introduction**
