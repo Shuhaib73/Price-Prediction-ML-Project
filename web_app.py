@@ -7,7 +7,6 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 import time as t
 import base64
-import os
 
 # Function to customize the web layout by hiding certain elements
 def web_customes():                                                                         
@@ -62,13 +61,7 @@ def get_background(file_name):
         unsafe_allow_html=True
     )
 
-# Function to get data from a CSV file 
-@st.cache_data
-def get_data():
-    file_path = 'https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/Scaled_data.csv'
-    data = pd.read_csv(file_path, index_col=0)  
-    return data
-    
+
 
 # Main application function
 def app():
@@ -79,6 +72,14 @@ def app():
     web_customes()                              # Calling web-customized Function
     tool_bar()                                  # Calling tool bar Function
     get_background("images/bg_mn.png")          # Set background image
+
+    # Function to get data from a CSV file 
+    @st.cache_data
+    def get_data():
+        df = pd.read_csv('scaled_data.csv', index_col=0)
+
+        return df
+    
     df = get_data()
 
     # Create an option menu for navigation
