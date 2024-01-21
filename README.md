@@ -5,7 +5,7 @@
 <p align='center'>
   <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/git_logo.png' width='600' height='240' />
 </p> 
-You can access the web application[Car Price Predictor] by following this link: https://audioclassification.streamlit.app/
+You can access the web application[Car Price Predictor] by following this link: https://car-price-predictor-webapp.streamlit.app/
 
 ## **Introduction**
   ```In the dynamic landscape of the automotive industry, setting accurate and competitive prices for cars is a critical factor for success. Cars undergo a fascinating economic transformation as they transition from new vehicles with manufacturer-set prices to used ones influenced by the intricate dynamics of supply, demand, and individual histories. This transformation, coupled with the unique features that distinguish each car, makes traditional valuation methods less effective. Leveraging the power of machine learning and data science to untangle the complex factors influencing car prices.```
@@ -110,7 +110,7 @@ You can access the web application[Car Price Predictor] by following this link: 
     * In this phase, a comprehensive evaluation of various machine learning models was conducted, revealing distinct variations in mean absolute error (MAE) and mean squared error (MSE) across different algorithms. Among these models, the Gradient Boosting algorithm emerged as a standout performer, showcasing superior predictive accuracy.
 #### <strong>Deployment</strong>: 
     * The finalized car price prediction model is deployed, and in this case, it is potentially integrated into a web application using Streamlit. The deployment allows users to interact with the model conveniently through a user-friendly interface. 
-  ``` You can access the web application by following this link: https://audioclassification.streamlit.app/```
+  ``` You can access the web application by following this link: ``` https://car-price-predictor-webapp.streamlit.app/
 
 
 ## **Conclusion** :
