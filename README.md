@@ -18,6 +18,71 @@ You can access the web application[Audio classification system] by following thi
 ##### - Logistic Regression
 ##### - XGB Boost
 
+#### **Exploratory Data Analysis (EDA)**
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' style='width: 50%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Attrition Count Based on Age
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Age_att.PNG' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Attrition Count Based on Gender
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/gender_at.PNG' style='width: 50%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Attrition Count By Department
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Dep_at.PNG' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Attrition Count By City
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/city_at.PNG' style='width: 70%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Classification Report
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/clss.PNG' style='width: 60%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Confusion Matrix
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Confu.PNG' style='width: 90%;' />
+                     </p>
+</details>
+
 ## The project pipeline can be summarized in the following steps: 
 #### **Data Understanding and Exploration** : 
     * This phase involves loading the data and Explore the characteristics of the available features. Understanding the data helps us select the relevant features for our final model.  
