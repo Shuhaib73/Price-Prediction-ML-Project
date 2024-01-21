@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 20px; color: #3366cc; font-weight: bold;">
+<p align="center" style="font-size: 40px; color: #3366cc; font-weight: bold;">
   <strong>Car Price Prediction - Machine Learning Regression Project</strong>
 </p>
 
