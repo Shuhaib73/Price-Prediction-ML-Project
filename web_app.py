@@ -7,6 +7,7 @@ import numpy as np
 from sklearn.preprocessing import LabelEncoder
 import time as t
 import base64
+import os
 
 # Function to customize the web layout by hiding certain elements
 def web_customes():                                                                         
@@ -62,11 +63,13 @@ def get_background(file_name):
     )
 
 # Function to get data from a CSV file 
-@st.cache_data
+@st.cache
 def get_data():
-    df = pd.read_csv('C:/Users/user/Desktop/Python/Main_Projects/Car_price_prediction/scaled_data.csv', index_col=0)
-    return df
-
+    file_path = 'C:/Users/user/Desktop/Python/Main_Projects/Car_price_prediction/scaled_data.csv'
+    if os.path.exists(file_path):
+        df = pd.read_csv(file_path, index_col=0)  
+    else:
+        st.error("File not found at the specified path.")
 
 # Main application function
 def app():
