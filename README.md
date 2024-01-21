@@ -1,4 +1,4 @@
-<p align="center" style="font-size: larger; color: #3366cc; font-weight: bold;">
+![image](https://github.com/Shuhaib73/Price-Prediction-ML-Project/assets/114503177/4d0a5871-d885-4027-afbd-1c82512744a3)<p align="center" style="font-size: larger; color: #3366cc; font-weight: bold;">
   <strong>Car Price Prediction - Machine Learning Regression Project</strong>
 </p>
 
@@ -33,64 +33,64 @@ You can access the web application[Car Price Predictor] by following this link: 
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Employee Attrition Status 
+              <strong>​✒️<Click here to see :</strong> Top 10 Manufacturer 
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Attri_dis.PNG' style='width: 50%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/top_10.PNG' style='width: 50%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count Based on Age
+              <strong>​✒️<Click here to see :</strong> Evolution of Car Production Over the Years
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Age_att.PNG' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/total_cars.PNG' style='width: 70%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count Based on Gender
+              <strong>​✒️<Click here to see :</strong> Avergae Car Price Trends Across Years
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/gender_at.PNG' style='width: 50%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/car_per_year.PNG' style='width: 50%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count By Department
+              <strong>​✒️<Click here to see :</strong> Average Car Prices by Transmission Type
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Dep_at.PNG' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/price_trans.PNG' style='width: 70%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Attrition Count By City
+              <strong>​✒️<Click here to see :</strong> Average Car Price by Brand
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/city_at.PNG' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/avg_price_brand.PNG' style='width: 70%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Classification Report
+              <strong>​✒️<Click here to see :</strong> Average Car Price by Driven Wheel
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/clss.PNG' style='width: 60%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/avg_drv_wh.PNG' style='width: 60%;' />
                      </p>
 </details>
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Confusion Matrix
+              <strong>​✒️<Click here to see :</strong> Age Distribution of Cars: Mapping the Population of Vehicles Across Years
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Employee_Attrition-Deep_Learning-ANN/blob/main/Confu.PNG' style='width: 90%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/age.PNG' style='width: 90%;' />
                      </p>
 </details>
 
