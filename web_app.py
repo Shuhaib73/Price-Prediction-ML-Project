@@ -65,12 +65,10 @@ def get_background(file_name):
 # Function to get data from a CSV file 
 @st.cache_data
 def get_data():
-    file_path = 'C:/Users/user/Desktop/Python/Main_Projects/Car_price_prediction/scaled_data.csv'
-    if os.path.exists(file_path):
-        df = pd.read_csv(file_path, index_col=0)  
-        return df
-    else:
-        st.error("File not found at the specified path.")
+    file_path = 'https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/Scaled_data.csv'
+    data = pd.read_csv(file_path, index_col=0)  
+    return data
+    
 
 # Main application function
 def app():
