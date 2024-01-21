@@ -1,4 +1,6 @@
-##                 **Car Price Prediction - Machine Learning Regression Project**
+<p align="center">
+  <strong>Car Price Prediction - Machine Learning Regression Project</strong>
+</p>
 
 <!-- <p align='center'>
   <img src='https://github.com/Shuhaib73/Classification_ML_Mushrooms_Project/blob/main/mus_ims.jpg' />
