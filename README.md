@@ -3,7 +3,7 @@
 </p>
 
 <p align='center'>
-  <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/git_logo.png' />
+  <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/git_logo.png' width='300' height='200' />
 </p> 
 You can access the web application[Car Price Predictor] by following this link: https://audioclassification.streamlit.app/
 
