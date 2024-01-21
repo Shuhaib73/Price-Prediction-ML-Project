@@ -11,15 +11,15 @@ You can access the web application[Audio classification system] by following thi
 ## **Problem Statement**
 ```In this project, our primary aim is to develop an accurate car price prediction model using machine learning techniques. We're focusing on building a sophisticated system that leverages the capabilities of predictive analytics to unravel valuable insights for new companies in the automotive industry, particularly tailored for a used car seller company and also to empower individual car owners looking to sell their vehicles. The goal is to assist these companies in making informed decisions about their pricing strategies.```
 
-```he dataset consists of 11,914 entries representing various car features. The columns include information such as the make, model, year, engine fuel type, engine horsepower, engine cylinders, transmission type, driven wheels, number of doors, market category, vehicle size, vehicle style, highway miles per gallon (MPG), city MPG, popularity, and Manufacturer's Suggested Retail Price (MSRP).```
+```The dataset consists of 11,914 entries representing various car features. The columns include information such as the make, model, year, engine fuel type, engine horsepower, engine cylinders, transmission type, driven wheels, number of doors, market category, vehicle size, vehicle style, highway miles per gallon (MPG), city MPG, popularity, and Manufacturer's Suggested Retail Price (MSRP).```
 
 ```Before delving into model development, essential data preprocessing steps are undertaken. This involves handling missing values in columns like 'Engine Fuel Type,' 'Engine HP,' 'Engine Cylinders,' and 'Number of Doors.' Additionally, categorical variables are often encoded for better model compatibility.```
 
 ```Predictive analytics techniques, particularly machine learning algorithms, are employed to gain insights into the factors affecting car prices. Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or R-squared are used to assess model performance. The goal is to provide valuable insights for car seller company and also to empower individual car owners looking to sell their vehicles, assisting in crafting informed decisions about pricing strategies.```
 
     
-### Machine Learning & Deep Learning Models used in the project:
-#### The project compares the results of different techniques :
+### **Machine Learning Models used in the project:**
+#### The project compares the results of different algorithms :
 ##### - Linear Regression
 ##### - Decision Tree Regressor
 ##### - Random Forest Regressor
@@ -27,7 +27,7 @@ You can access the web application[Audio classification system] by following thi
 ##### - Gradient Boosting Regressor
 ##### - XGBoost Regressor Regressor
 
-#### **Exploratory Data Analysis (EDA)**
+### **Exploratory Data Analysis (EDA)**
 
 <details>
        <summary>
