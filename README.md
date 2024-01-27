@@ -19,6 +19,10 @@ You can access the web application[Car Price Predictor] by following this link: 
 
 ```Predictive analytics techniques, particularly machine learning algorithms, are employed to gain insights into the factors affecting car prices. Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or R-squared are used to assess model performance. The goal is to provide valuable insights for car seller company and also to empower individual car owners looking to sell their vehicles, assisting in crafting informed decisions about pricing strategies.```
 
+<p align='center'>
+  <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/ML_flow.webp' width='600' height='240' />
+</p> 
+
     
 ### **Machine Learning Models used in the project:**
 #### The project compares the results of different algorithms :
