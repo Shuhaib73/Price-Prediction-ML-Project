@@ -39,15 +39,6 @@ You can access the web application[Car Price Predictor] by following this link: 
 
 <details>
        <summary>
-              <strong>​✒️<Click here to see :</strong> Top 10 Manufacturer 
-       </summary>
-                     <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/top_10.PNG' style='width: 50%;' />
-                     </p>
-</details>
-
-<details>
-       <summary>
               <strong>​✒️<Click here to see :</strong> Evolution of Car Production Over the Years
        </summary>
                      <p align='center'>
@@ -61,6 +52,15 @@ You can access the web application[Car Price Predictor] by following this link: 
        </summary>
                      <p align='center'>
                             <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/car_per_year.PNG' style='width: 50%;' />
+                     </p>
+</details>
+
+<details>
+       <summary>
+              <strong>​✒️<Click here to see :</strong> Top 10 Manufacturer 
+       </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/top_10.PNG' style='width: 50%;' />
                      </p>
 </details>
 
