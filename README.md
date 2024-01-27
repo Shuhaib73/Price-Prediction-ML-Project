@@ -51,7 +51,7 @@ You can access the web application[Car Price Predictor] by following this link: 
               <strong>​✒️<Click here to see :</strong> Avergae Car Price Trends Across Years
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/car_per_year.PNG' style='width: 50%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/car_per_year.PNG' style='width: 70%;' />
                      </p>
 </details>
 
@@ -60,7 +60,7 @@ You can access the web application[Car Price Predictor] by following this link: 
               <strong>​✒️<Click here to see :</strong> Top 10 Manufacturer 
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/top_10.PNG' style='width: 50%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/top_10.PNG' style='width: 70%;' />
                      </p>
 </details>
 
