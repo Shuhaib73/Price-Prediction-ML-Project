@@ -78,7 +78,7 @@ You can access the web application[Car Price Predictor] by following this link: 
               <strong>​✒️<Click here to see :</strong> Average Car Price by Brand
        </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/avg_price_brand.PNG' style='width: 70%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/avg_price_brand.PNG' style='width: 90%;' />
                      </p>
 </details>
 
