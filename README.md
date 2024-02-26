@@ -7,10 +7,10 @@
 </p> 
 You can access the web application[Car Price Predictor] by following this link: https://car-price-predictor-webapp.streamlit.app/
 
-## **Introduction**
+## <br>**➲ Project description**
   ```In the dynamic landscape of the automotive industry, setting accurate and competitive prices for cars is a critical factor for success. Cars undergo a fascinating economic transformation as they transition from new vehicles with manufacturer-set prices to used ones influenced by the intricate dynamics of supply, demand, and individual histories. This transformation, coupled with the unique features that distinguish each car, makes traditional valuation methods less effective. Leveraging the power of machine learning and data science to untangle the complex factors influencing car prices.```
 
-## **Problem Statement**
+## <br>**➲Problem Statement**
 ```In this project, our primary aim is to develop an accurate car price prediction model using machine learning techniques. We're focusing on building a sophisticated system that leverages the capabilities of predictive analytics to unravel valuable insights for new companies in the automotive industry, particularly tailored for a used car seller company and also to empower individual car owners looking to sell their vehicles. The goal is to assist these companies in making informed decisions about their pricing strategies.```
 
 ```The dataset consists of 11,914 entries representing various car features. The columns include information such as the make, model, year, engine fuel type, engine horsepower, engine cylinders, transmission type, driven wheels, number of doors, market category, vehicle size, vehicle style, highway miles per gallon (MPG), city MPG, popularity, and Manufacturer's Suggested Retail Price (MSRP).```
@@ -19,14 +19,14 @@ You can access the web application[Car Price Predictor] by following this link: 
 
 ```Predictive analytics techniques, particularly machine learning algorithms, are employed to gain insights into the factors affecting car prices. Evaluation metrics such as Mean Absolute Error (MAE), Mean Squared Error (MSE), or R-squared are used to assess model performance. The goal is to provide valuable insights for car seller company and also to empower individual car owners looking to sell their vehicles, assisting in crafting informed decisions about pricing strategies.```
 
-### **Machine Learning Workflow**
+### <br>**➲Machine Learning Workflow**
 
 <p align='center'>
   <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/ML_flow.webp' width='700' height='300' />
 </p> 
 
     
-### **Machine Learning Models used in the project:**
+### <br>**➲Machine Learning Models used in the project:**
 #### The project compares the results of different algorithms :
 ##### - Linear Regression
 ##### - Decision Tree Regressor
@@ -35,7 +35,7 @@ You can access the web application[Car Price Predictor] by following this link: 
 ##### - Gradient Boosting Regressor
 ##### - XGBoost Regressor Regressor
 
-### **Exploratory Data Analysis (EDA)**
+### <br>**➲Exploratory Data Analysis (EDA)**
 
 <details>
        <summary>
@@ -100,7 +100,7 @@ You can access the web application[Car Price Predictor] by following this link: 
                      </p>
 </details>
 
-## The project pipeline can be summarized in the following steps: 
+## <br>**➲ The project pipeline can be summarized in the following steps:**
 #### **Data Understanding and Exploration** : 
     * In this initial phase, the dataset is loaded, and a thorough exploration of the features is conducted. Understanding the data is crucial for selecting relevant features that will contribute to the final car price prediction model.  
 #### <strong>Data Preprocessing</strong>: 
@@ -119,7 +119,7 @@ You can access the web application[Car Price Predictor] by following this link: 
   ``` You can access the web application by following this link: ``` https://car-price-predictor-webapp.streamlit.app/
 
 
-## **Conclusion** :
+## <br>**➲Conclusion** :
 ``` After a comprehensive evaluation of various machine learning models, distinct variations in mean absolute error (MAE) and mean squared error (MSE) have been observed across different algorithms. Notably, the Gradient Boosting algorithm emerges as a standout performer, showcasing superior predictive accuracy. The achievement of a remarkable 99% R-squared score underscores the model's excellent fit to the data.```
 
 ``` In light of these findings, the decision has been made to deploy the Gradient Boosting model. This choice is driven by the anticipation of its robust performance in real-world applications. The model's demonstrated accuracy and resilience make it a promising model for making informed predictions and contributing valuable insights to the dynamic landscape of car pricing.```
