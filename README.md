@@ -100,6 +100,15 @@ You can access the web application[Car Price Predictor] by following this link: 
                      </p>
 </details>
 
+<details>
+      <summary>
+            <strong>​✒️<Click here to see :</strong> Actual Price Vs Predicted Price
+      </summary>
+                     <p align='center'>
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/actual_predicted.PNG' style='width: 90%;' />
+                     </p>
+</details>
+
 ## <br>**➲ The project pipeline can be summarized in the following steps:**
 #### **Data Understanding and Exploration** : 
     * In this initial phase, the dataset is loaded, and a thorough exploration of the features is conducted. Understanding the data is crucial for selecting relevant features that will contribute to the final car price prediction model.  
@@ -120,6 +129,6 @@ You can access the web application[Car Price Predictor] by following this link: 
 
 
 ## <br>**➲ Conclusion** :
-``` After a comprehensive evaluation of various machine learning models, distinct variations in mean absolute error (MAE) and mean squared error (MSE) have been observed across different algorithms. Notably, the Gradient Boosting algorithm emerges as a standout performer, showcasing superior predictive accuracy. The achievement of a remarkable 99% R-squared score underscores the model's excellent fit to the data.```
+``` After a comprehensive evaluation of various machine learning models, distinct variations in mean absolute error (MAE) and mean squared error (MSE) have been observed across different algorithms. Notably, the Extreme Gradient Boosting algorithm emerges as a standout performer, showcasing superior predictive accuracy. The achievement of a remarkable 97% R-squared score underscores the model's excellent fit to the data.```
 
-``` In light of these findings, the decision has been made to deploy the Gradient Boosting model. This choice is driven by the anticipation of its robust performance in real-world applications. The model's demonstrated accuracy and resilience make it a promising model for making informed predictions and contributing valuable insights to the dynamic landscape of car pricing.```
+``` In light of these findings, the decision has been made to deploy the Extreme Gradient Boosting model. This choice is driven by the anticipation of its robust performance in real-world applications. The model's demonstrated accuracy and resilience make it a promising model for making informed predictions and contributing valuable insights to the dynamic landscape of car pricing.```
