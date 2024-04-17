@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/car_main_img.jpg' width='600' height='240' />
+  <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/car_main_img.jpg' width='600' height='180' />
 </p>
 You can access the web application[Car Price Predictor] by following this link: https://car-price-predictor-webapp.streamlit.app/
 
@@ -105,7 +105,7 @@ You can access the web application[Car Price Predictor] by following this link: 
             <strong>​✒️<Click here to see :</strong> Actual Price Vs Predicted Price
       </summary>
                      <p align='center'>
-                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/actual_predicted.PNG' style='width: 90%;' />
+                            <img src='https://github.com/Shuhaib73/Price-Prediction-ML-Project/blob/main/images/actual_predicted.png' style='width: 90%;' />
                      </p>
 </details>
 
